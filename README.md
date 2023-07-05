@@ -25,6 +25,7 @@
 Frase do do Jobs
 
 ## Últimos projetos
-- [Portfolio - Frontend]() <br/>
-- [Blog - Frontend]() <br/>
-- [Identidade Visual - Product Design]() <br/>
+- [Portfolio - Frontend](https://github.com/castrogusttavo/castrogusttavo.github.io) <br/>
+- [Blog - Frontend](https://github.com/castrogusttavo/blogresponsivo) <br/>
+- [Identidade Visual - Product Design](https://dribbble.com/shots/21719924-Visual-Identity-ID) <br/>
+- [eBook Lading Page - Product Design](https://dribbble.com/shots/21730562-eBook-Landing-Page) <br/>
