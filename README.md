@@ -1,7 +1,9 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/castrogusttavo/2858517f1ddfd911340f9678a87b4564/raw/a05de23021778d5cc6fdc37aed68c159b6240967/githubcard.svg"/>
 <h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gusttavo Castro</h1>
 
 Gusttavo Castro is a Brazilian designer and programmer. Currently, he lives in Santos, São Paulo, where he is the founder and CEO of Softis. His long-standing appreciation for software construction and knowledge sharing has led him to explore various areas of technology. His passion for coding and eagerness to learn placed him among the top 4 programmers of the ‘Digital Literacy’ project at CNPq at the age of 18. Gusttavo has developed several software programs, mentored programmers, and studied User Experience at major tech companies like Google and IBM.
+<br/>
+<br/>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=9580ff)](https://www.linkedin.com/in/castrogusttavo/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=9580ff)](https://github.com/castrogusttavo)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black.svg?style=for-the-badge&logo=supabase&logoColor=9580ff)](https://gusttavocastro-com.vercel.app/)
