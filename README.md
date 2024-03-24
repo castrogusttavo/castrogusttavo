@@ -8,7 +8,7 @@ Gusttavo Castro is a Brazilian designer and programmer. Currently, he lives in S
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=9580ff)](https://www.linkedin.com/in/castrogusttavo/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=9580ff)](https://github.com/castrogusttavo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black.svg?style=for-the-badge&logo=vercel&logoColor=9580ff)](https://gusttavocastro-com.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black.svg?style=for-the-badge&logo=supabase&logoColor=9580ff)](https://gusttavocastro-com.vercel.app/)
 
 ![Satus](https://github-readme-stats.vercel.app/api?username=castrogusttavo&show_icons=true&theme=dark)
 
