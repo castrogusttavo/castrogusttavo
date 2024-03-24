@@ -6,9 +6,9 @@ Gusttavo Castro is a Brazilian designer and programmer. Currently, he lives in S
 
 <br/>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/castrogusttavo/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/castrogusttavo)
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=#FF7139)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=9580ff)](https://www.linkedin.com/in/castrogusttavo/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=9580ff)](https://github.com/castrogusttavo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black.svg?style=for-the-badge&logo=vercel&logoColor=9580ff)](https://gusttavocastro-com.vercel.app/)
 
 ![Satus](https://github-readme-stats.vercel.app/api?username=castrogusttavo&show_icons=true&theme=dark)
 
@@ -16,27 +16,23 @@ Gusttavo Castro is a Brazilian designer and programmer. Currently, he lives in S
 
 <br/>
 
-## Tecnologias que eu uso no dia a dia
+## Technologies I use on a daily basis
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="javascript" src="https://img.shields.io/badge/next%20js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white" />
     <img align="center" alt="javascript" src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white" />
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" />
-    <img align="center" alt="css3" src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwind-css&logoColor=white" />    
     <br/>
-    <br/>
-    <h3>Outras tecnologias que eu uso</h3>
+    <img align="center" alt="css3" src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwind-css&logoColor=white" />  
     <img align="center" alt="css3" src="https://img.shields.io/badge/php-black.svg?style=for-the-badge&logo=php&logoColor=white" />
     <img align="center" alt="css3" src="https://img.shields.io/badge/ionic-black.svg?style=for-the-badge&logo=ionic&logoColor=white" />
     <img align="center" alt="css3" src="https://img.shields.io/badge/node.js-black.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img align="center" alt="css3" src="https://img.shields.io/badge/html-black.svg?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="css3" src="https://img.shields.io/badge/css-black.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
 <br/>
 
-## Serviços que eu uso
+## Services I use
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -47,6 +43,7 @@ Gusttavo Castro is a Brazilian designer and programmer. Currently, he lives in S
 
 <br/>
 
-## Inspiração
-
-A criatividade é pensar coisas novas. A inovação é fazer coisas novas.
+## Press On!
+> Nothing in this world can take the place of good old **persistence**. Talent will not; nothing is more common than unsuccessful people with talent. **Genius will not;** unrewarded genius is almost a proverb. Education will not; the world is full of educated derelicts. Persistence and determination alone are omnipotent.. The slogan **'Press On!'** has solved and always will solve the problems of the human race.
+>
+> **Calvin Coolidge** - 1929
