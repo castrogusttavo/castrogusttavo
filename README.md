@@ -33,9 +33,9 @@ Gusttavo Castro is a Brazilian designer and programmer. He currently resides in 
 
 <h2>⚙️ &nbsp;GitHub Analytics</h2>
 
-![Satus](https://github-readme-stats.vercel.app/api?username=diego3g&show_icons=true&theme=dark)
+![Satus](https://github-readme-stats.vercel.app/api?username=castrogusttavo&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego3g&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=castrogusttavo&layout=compact&theme=dark)
 
 <br/>
 
