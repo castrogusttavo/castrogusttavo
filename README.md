@@ -35,7 +35,7 @@ Gusttavo Castro is a Brazilian designer and programmer. He currently resides in 
 
 ![Satus](https://github-readme-stats.vercel.app/api?username=castrogusttavo&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=castrogusttavo&layout=compact&theme=dark)
+
 
 <br/>
 
