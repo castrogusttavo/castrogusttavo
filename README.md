@@ -17,8 +17,6 @@ Gusttavo Castro is a Brazilian designer and programmer. He currently resides in 
     <img align="center" alt="javascript" src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white" />
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" />
     <img align="center" alt="css3" src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwind-css&logoColor=white" />  
-    <img align="center" alt="css3" src="https://img.shields.io/badge/php-black.svg?style=for-the-badge&logo=php&logoColor=white" />
-    <img align="center" alt="css3" src="https://img.shields.io/badge/ionic-black.svg?style=for-the-badge&logo=ionic&logoColor=white" />
     <img align="center" alt="css3" src="https://img.shields.io/badge/node.js-black.svg?style=for-the-badge&logo=node.js&logoColor=white" />
     <br/>
     <br/>
