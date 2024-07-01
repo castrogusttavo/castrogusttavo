@@ -1,7 +1,7 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/castrogusttavo/2858517f1ddfd911340f9678a87b4564/raw/a05de23021778d5cc6fdc37aed68c159b6240967/githubcard.svg"/>
 <h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gusttavo Castro</h1>
 
-Gusttavo Castro is a Brazilian designer and programmer. He currently resides in Santos, São Paulo, where he is the founder and CEO. His dedication to knowledge sharing has led him to delve into various technological fields. His passion for programming and his eagerness to learn have made him one of the programmers of the 'Digital Literacy' project at CNPq. Gusttavo has developed multiple software programs, delivered lectures, and studied User Experience at major tech companies such as Google and IBM.
+Gusttavo Castro is a Brazilian designer and programmer. He currently resides in Santos, São Paulo, where he is the founder and CEO. His dedication to spreading knowledge has led him to explore various technological areas. His appreciation for programming and his desire to learn made him one of the programmers of the 'Digital Literacy' project at CNPq, in collaboration with UNIFESP. Gusttavo has developed several software programs, given lectures, and studied ReactJS at major technology companies such as Rocketseat and Meta, as well as User Experience at Google and IBM.
 <br/>
 <br/>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=9580ff)](https://www.linkedin.com/in/castrogusttavo/)
