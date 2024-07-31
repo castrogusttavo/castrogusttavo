@@ -13,17 +13,15 @@ Gusttavo Castro is a Brazilian designer and programmer. He currently resides in 
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="javascript" src="https://img.shields.io/badge/next%20js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white" />
+    <img align="center" alt="html5" src="https://img.shields.io/badge/React%20js-black?style=for-the-badge&logo=react&logoColor=white" />
     <img align="center" alt="javascript" src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white" />
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" />
     <img align="center" alt="css3" src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwind-css&logoColor=white" />  
-    <img align="center" alt="css3" src="https://img.shields.io/badge/node.js-black.svg?style=for-the-badge&logo=node.js&logoColor=white" />
     <br/>
     <br/>
     <img align="center" alt="css3" src="https://img.shields.io/badge/vercel-black.svg?style=for-the-badge&logo=vercel&logoColor=white" />
     <img align="center" alt="css3" src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white" />
     <img align="center" alt="css3" src="https://img.shields.io/badge/Firebase-black.svg?style=for-the-badge&logo=firebase&logoColor=white" />
-    <img align="center" alt="css3" src="https://img.shields.io/badge/VS%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img align="center" alt="css3" src="https://img.shields.io/badge/Figma-black.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
