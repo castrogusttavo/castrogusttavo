@@ -1,7 +1,6 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/castrogusttavo/2858517f1ddfd911340f9678a87b4564/raw/a05de23021778d5cc6fdc37aed68c159b6240967/githubcard.svg"/>
 <h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gusttavo Castro</h1>
 
-Gusttavo Castro is a Brazilian designer and programmer. He currently resides in São Paulo, Brasil, where he is the founder and CEO. His dedication to spreading knowledge has led him to explore various technological areas. His appreciation for programming and his desire to learn made him one of the programmers of the 'Digital Literacy' project at CNPq, in collaboration with UNIFESP. Gusttavo has developed several software programs, given lectures, and studied ReactJS at major technology companies such as Rocketseat and Meta, as well as User Experience at Google and IBM.
+Gusttavo Castro is a Brazilian designer and developer. He currently resides in São Paulo, Brazil, where he is the founder and CEO of a technology company, leading the strategy and software development.
 <br/>
 <br/>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=9580ff)](https://www.linkedin.com/in/castrogusttavo/)
@@ -12,17 +11,11 @@ Gusttavo Castro is a Brazilian designer and programmer. He currently resides in 
 <h2>🛠 &nbsp;Tech Stack</h2>
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/next%20js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/React%20js-black?style=for-the-badge&logo=react&logoColor=white" />
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img align="center" alt="Next.js" src="https://img.shields.io/badge/next%20js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img align="center" alt="Reac.js" src="https://img.shields.io/badge/React%20js-black?style=for-the-badge&logo=react&logoColor=white" />
+    <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white" />
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" />
-    <img align="center" alt="css3" src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwind-css&logoColor=white" />  
-    <br/>
-    <br/>
-    <img align="center" alt="css3" src="https://img.shields.io/badge/vercel-black.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-    <img align="center" alt="css3" src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white" />
-    <img align="center" alt="css3" src="https://img.shields.io/badge/Firebase-black.svg?style=for-the-badge&logo=firebase&logoColor=white" />
-    <img align="center" alt="css3" src="https://img.shields.io/badge/Figma-black.svg?style=for-the-badge&logo=figma&logoColor=white" />
+    <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwind-css&logoColor=white" />  
 </div>
 
 <br/><br/>
