@@ -24,6 +24,8 @@ Gusttavo Castro is a Brazilian designer and developer. He currently resides in S
 
 ![Gusttavo GitHub stats](https://github-readme-stats.vercel.app/api?username=castrogusttavo&show_icons=true&theme=dark)
 
+<!-- ![Gusttavo GitHub stats](https://github-readme-stats.vercel.app/api?username=castrogusttavo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) -->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=castrogusttavo&theme=dark&layout=compact)](https://github.com/castrogusttavo/github-readme-stats&theme=dark)
 
 <br/>
