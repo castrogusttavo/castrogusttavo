@@ -1,6 +1,6 @@
 <h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gusttavo Castro</h1>
 
-Gusttavo Castro is a Brazilian designer and developer. He currently resides in São Paulo, Brazil, where he is the founder and CEO of a technology company, leading the strategy and software development.
+Gusttavo Castro is a Brazilian designer and developer. He currently resides in São Paulo, Brazil, where he is the developer experience engineer, leading the strategy and software development.
 <br/>
 <br/>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=9580ff)](https://www.linkedin.com/in/castrogusttavo/)
