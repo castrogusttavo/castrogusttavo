@@ -4,11 +4,6 @@
 
 I'm an full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All post content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my LinkedIn profile "[castrogusttavo](https://www.linkedin.com/in/castrogusttavo)" to more than 4k followers.
 
-   <p align="left">
-      <a href="https://github.com/castrogusttavo?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/castrogusttavo?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-   
 ---
 
 ### 🧰 Languages and Tools
@@ -43,7 +38,7 @@ I'm an full-stack developer and content creator building my version of the digit
 ### 📊 Stats
 
 ![Gusttavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=castrogusttavo&show_icons=true&theme=dark)
-[![Gusttavo's GitHub Streak](https://streak-stats.demolab.com/?user=castrogusttavo&theme=dark)](https://git.io/streak-stats)
+![Gusttavo's GitHub Streak](https://streak-stats.demolab.com/?user=castrogusttavo&theme=dark-minimalist&hide_border=true&short_numbers=true)
 
 #
 
