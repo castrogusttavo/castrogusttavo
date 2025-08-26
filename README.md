@@ -35,5 +35,5 @@ I’m comfortable implementing caching strategies (Cache Aside), real-time commu
 I believe good architecture should empower developers — not slow them down. That’s why I'm focused on continuously improving Developer Experience at every level of the stack.
 
 Feel free to connect or reach out if you'd like to talk more. <br/>
-[website]: https://fkcodes.com <br/>
-[youtube]: https://youtube.com/fknight
+[website]: [https://castrogusttavo.com](https://castrogusttavo.vercel.app) <br/>
+[linkedin]: [https://linkedin.com/in/castrogusttavo](https://www.linkedin.com/in/castrogusttavo/)
