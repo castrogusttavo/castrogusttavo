@@ -21,7 +21,6 @@ I'm an full-stack developer and content creator building my version of the digit
 ### 📊 Stats
 
 ![Gusttavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=castrogusttavo&show_icons=true&theme=dark)
-![Gusttavo's GitHub Streak](https://streak-stats.demolab.com/?user=castrogusttavo&theme=dark-minimalist&hide_border=true&short_numbers=true)
 
 #
 
