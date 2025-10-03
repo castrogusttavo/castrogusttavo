@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Designer/Creator)`**
 
-I'm an full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All post content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my LinkedIn profile "[castrogusttavo](https://www.linkedin.com/in/castrogusttavo)" to more than 4k followers.
+I'm an full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All post content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my LinkedIn profile "[castrogusttavo](https://www.linkedin.com/in/castrogusttavo)" to more than 5k followers.
 
 ---
 
