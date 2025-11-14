@@ -26,7 +26,7 @@ I'm an software developer and content creator building my version of the digital
 
 <details>
  <summary><h3>Gusttavo's Coding Journey</h3></summary>
-I'm a Developer Experience Engineer at code.dev, where I build tools, workflows, and interfaces that reduce friction and help developers move faster — with performance, clarity, and simplicity in mind.
+I'm a Software Engineer at code.dev, where I build tools, workflows, and interfaces that reduce friction and help developers move faster — with performance, clarity, and simplicity in mind.
 
 My core expertise is in front-end development using Next.js and NestJS, but I also have hands-on experience across the stack. I've worked on distributed systems with microservice orchestration, Docker-based     environments, asynchronous processing with RabbitMQ, and background workers.    
 
