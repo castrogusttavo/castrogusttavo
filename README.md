@@ -20,20 +20,15 @@ I'm an software developer and content creator building my version of the digital
 
 ### 📊 Stats
 
-![Gusttavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=castrogusttavo&show_icons=true&theme=dark)
+<div style="display: flex; gap: 16px; justify-content:start; align-items: center;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=castrogusttavo&show_icons=true&theme=dark"
+    style="height: 200px;"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=castrogusttavo&theme=dark"
+    style="height: 200px;"
+  />
+</div>
 
-#
 
-<details>
- <summary><h3>Gusttavo's Coding Journey</h3></summary>
-I'm a Software Engineer at code.dev, where I build tools, workflows, and interfaces that reduce friction and help developers move faster — with performance, clarity, and simplicity in mind.
-
-My core expertise is in front-end development using Next.js and NestJS, but I also have hands-on experience across the stack. I've worked on distributed systems with microservice orchestration, Docker-based     environments, asynchronous processing with RabbitMQ, and background workers.    
-
-I’m comfortable implementing caching strategies (Cache Aside), real-time communication using WebSockets, automated tests with Jest and Cypress, and CI/CD pipelines for fast, reliable delivery. I build APIs      with a strong focus on scalability, maintainability, and developer-friendly design.
-
-I believe good architecture should empower developers — not slow them down. That’s why I'm focused on continuously improving Developer Experience at every level of the stack.
-
-Feel free to connect or reach out if you'd like to talk more. <br/>
-[website]: [https://castrogusttavo.com](https://castrogusttavo.vercel.app) <br/>
-[linkedin]: [https://linkedin.com/in/castrogusttavo](https://www.linkedin.com/in/castrogusttavo/)
