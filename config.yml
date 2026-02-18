@@ -14,10 +14,10 @@ username: castrogusttavo
 
 # Profile information displayed in the galaxy header
 profile:
-  name: "Nyx Orion"
-  tagline: "Full Stack Developer & Open Source Explorer"
-  company: "Stellar Labs"
-  location: "San Francisco, CA"
+  name: "Gusttavo Castro"
+  tagline: "Backend Software Developer"
+  company: "Stratus"
+  location: "São Paulo, SP"
   bio: |
     Building tools that make developers' lives easier.
     Passionate about distributed systems, developer experience, and the open-source ecosystem.
@@ -25,9 +25,9 @@ profile:
 
 # Social links displayed at the bottom of the profile
 social:
-  email: "nyx@stellarlabs.dev"
-  linkedin: "nyxorion"
-  website: "https://nyxorion.dev"
+  email: "castrogusttavo.dev@gmail.com"
+  linkedin: "castrogusttavo"
+  website: "https://castrogusttavo.vercel.app"
 
 # Galaxy arms represent your core focus areas
 # Each arm spirals out from the center with its own color and tech items
@@ -38,19 +38,19 @@ galaxy_arms:
     items:
       - "TypeScript"
       - "React"
-      - "CSS"
+      - "Tailwind"
   - name: "Backend"
     color: "synapse_cyan"
     items:
-      - "Python"
       - "Node.js"
       - "PostgreSQL"
+      - "PHP"
   - name: "DevOps"
     color: "axon_amber"
     items:
       - "Docker"
       - "GitHub Actions"
-      - "AWS"
+      - "Azure"
 
 # Featured projects shown as constellation stars
 # Each project needs:
@@ -58,12 +58,12 @@ galaxy_arms:
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
 projects:
-  - repo: "galaxy-dev/nebula-ui"
+  - repo: "stratus/nexo"
     arm: 0
-    description: "A component library with cosmic design tokens and dark-first theming."
-  - repo: "galaxy-dev/stargate-api"
+    description: "Project management for teams that crave clarity even in complexity."
+  - repo: "owner/coodee-dev"
     arm: 1
-    description: "High-performance API gateway with built-in observability and caching."
+    description: "Online platform for coding interview"
 
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
