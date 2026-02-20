@@ -46,7 +46,7 @@ galaxy_arms:
       - "Fastify"
       - "Nest.js"
       - "PostgreSQL"
-      - "PHP"
+      - "Redis"
   - name: "DevOps"
     color: "axon_amber"
     items:
