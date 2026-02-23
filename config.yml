@@ -43,17 +43,10 @@ galaxy_arms:
   - name: "Backend"
     color: "synapse_cyan"
     items:
-      - "Node.js"
-      - "Fastify"
       - "NestJS"
       - "PostgreSQL"
       - "Redis"
       - "RabbitMQ"
-  - name: "Observability & Testing"
-    color: "synapse_cyan"
-    items:
-      - "Grafana"
-      - "Prometheus"
       - "Vitest"
   - name: "DevOps"
     color: "axon_amber"
