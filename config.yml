@@ -37,16 +37,24 @@ galaxy_arms:
     color: "dendrite_violet"
     items:
       - "TypeScript"
-      - "Vue"
+      - "React"
       - "Next.js"
       - "Tailwind"
   - name: "Backend"
     color: "synapse_cyan"
     items:
+      - "Node.js"
       - "Fastify"
-      - "Nest.js"
+      - "NestJS"
       - "PostgreSQL"
       - "Redis"
+      - "RabbitMQ"
+  - name: "Observability & Testing"
+    color: "synapse_cyan"
+    items:
+      - "Grafana"
+      - "Prometheus"
+      - "Vitest"
   - name: "DevOps"
     color: "axon_amber"
     items:
