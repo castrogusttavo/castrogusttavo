@@ -6,6 +6,7 @@ Working on something new every week!
 4. [Steel](https://app.stratustelecom.com.br) - ServiceDesk, CRM, communication and AI in one platform.
 5. [Steel CLI](https://github.com/steel-so/steel-cli) - CLI and TypeScript SDK for Steel.
 6. [GHP - Language](https://github.com/GHP-GoLang-Framework/ghp) - Go framework that turns PHP-style templates into HTTP handlers.
+7. [lumen-text](https://github.com/castrogusttavo/lumen-text) - Lightweight Rust code editor for Linux, built for low RAM and TypeScript.
 
 <div align="center">
   <a href="https://commit-history.com/castrogusttavo">
