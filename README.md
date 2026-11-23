@@ -16,6 +16,7 @@
 
 <p align='center'>
   <a href='https://www.instagram.com/ocastrogusttavo/'>Instagram</a>  • 
+  <a href='https://www.x.com/gustad3v/'>X</a>  • 
   <a href='https://www.linkedin.com/in/castrogusttavo/'>LinkedIn</a> • 
   <a href='mailto:castrogusttavo.dev@gmail.com'>E-mail</a> • 
   <a href='https://castrogusttavo-dev.vercel.app/'>Site</a>
