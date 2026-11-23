@@ -29,7 +29,7 @@
 - +3 years building multi-tenant SaaS and messageing platforms at:
   - **Stratus Telecom**: home of Steel, a ServiceDesk, CRM and WhatsApp platform with 6,000+ users.
   - **Adaptworks**: Brazil's SAFE® pioneer, 8,000+ professionals trained.
-- I write about backend, system design and AI on [LinkedIn](https://www.linkedin.com/in/castrogusttavo/) and on my [blog](https://castrogusttavo-dev.vercel.app/blog) 
+- I write about backend, system design and AI on [LinkedIn](https://www.linkedin.com/in/castrogusttavo/) and on my [blog](https://castrogusttavo-dev.vercel.app/writing) 
 - Open to backend roles in Brazil, or remote with international teams
 
 ---
